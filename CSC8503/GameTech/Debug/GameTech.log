@@ -1,8 +1,4 @@
-﻿  GameTechRenderer.cpp
-E:\CSC8503\Common\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
-E:\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(51,1): warning C4293: '<<': shift count negative or too big, undefined behavior
-E:\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(52,1): warning C4293: '<<': shift count negative or too big, undefined behavior
-  Main.cpp
+﻿  Main.cpp
 E:\CSC8503\Common\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
 E:\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(51,1): warning C4293: '<<': shift count negative or too big, undefined behavior
 E:\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(52,1): warning C4293: '<<': shift count negative or too big, undefined behavior
@@ -11,17 +7,4 @@ E:\CSC8503\CSC8503\GameTech\Main.cpp(210,18): warning C4129: ' ': unrecognized c
 E:\CSC8503\CSC8503\GameTech\Main.cpp(230,18): warning C4129: ' ': unrecognized character escape sequence
 E:\CSC8503\CSC8503\GameTech\Main.cpp(256,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 E:\CSC8503\CSC8503\GameTech\Main.cpp(286,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  StateGameObject.cpp
-  TutorialGame.cpp
-E:\CSC8503\Common\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
-E:\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(51,1): warning C4293: '<<': shift count negative or too big, undefined behavior
-E:\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(52,1): warning C4293: '<<': shift count negative or too big, undefined behavior
-E:\CSC8503\CSC8503\CSC8503Common\Pawn.h(25,1): warning C4305: '=': truncation from 'double' to 'float'
-E:\CSC8503\CSC8503\GameTech\TutorialGame.cpp(333,39): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
-E:\CSC8503\CSC8503\GameTech\TutorialGame.cpp(337,40): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
-E:\CSC8503\CSC8503\GameTech\TutorialGame.cpp(882,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-E:\CSC8503\CSC8503\GameTech\TutorialGame.cpp(882,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-E:\CSC8503\CSC8503\GameTech\TutorialGame.cpp(1003,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\CSC8503\CSC8503\GameTech\TutorialGame.cpp(1003,87): warning C4305: 'argument': truncation from 'double' to 'float'
-  Generating Code...
   GameTech.vcxproj -> E:\CSC8503\Win32\Debug\GameTech.exe

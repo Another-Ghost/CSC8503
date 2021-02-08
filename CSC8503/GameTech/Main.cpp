@@ -310,6 +310,7 @@ int main() {
 
 		g->Update(dt);
 
+		//g->UpdateGame(dt);
 		//TestStateMachine();
 	}
 	Window::DestroyGameWindow();

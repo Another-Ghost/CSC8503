@@ -1,10 +1,1 @@
-﻿  glad.c
-  OGLComputeShader.cpp
-  OGLMesh.cpp
-  OGLRenderer.cpp
-E:\CSC8503\Common\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
-  OGLShader.cpp
-  OGLTexture.cpp
-E:\CSC8503\Common\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
-  Generating Code...
-  OpenGLRendering.vcxproj -> E:\CSC8503\Win32\Debug\OpenGLRendering.lib
+﻿  OpenGLRendering.vcxproj -> E:\CSC8503\Win32\Debug\OpenGLRendering.lib
