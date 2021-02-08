@@ -1,0 +1,72 @@
+﻿  BehaviourAction.cpp
+  BehaviourNode.cpp
+  BehaviourNodeWithChildren.cpp
+  BehaviourSelector.cpp
+  BehaviourSequence.cpp
+  BonusObject.cpp
+E:\CSC8503\Common\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+E:\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(51,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+E:\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(52,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+  CollisionDetection.cpp
+E:\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(51,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+E:\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(52,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+E:\CSC8503\Common\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  CylinderVolume.cpp
+  Debug.cpp
+E:\CSC8503\Common\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+E:\CSC8503\CSC8503\CSC8503Common\Debug.cpp(67,20): warning C4018: '<': signed/unsigned mismatch
+E:\CSC8503\CSC8503\CSC8503Common\Debug.cpp(78,16): warning C4018: '>=': signed/unsigned mismatch
+  GameObject.cpp
+E:\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(51,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+E:\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(52,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+  GameWorld.cpp
+E:\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(51,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+E:\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(52,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+E:\CSC8503\Common\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  GJK.cpp
+E:\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(51,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+E:\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(52,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+E:\CSC8503\CSC8503\CSC8503Common\GJK.cpp(23,11): warning C4101: 'mtv': unreferenced local variable
+E:\CSC8503\CSC8503\CSC8503Common\GJK.cpp(283,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  HingedConstraint.cpp
+  NavigationGrid.cpp
+  NavigationMesh.cpp
+  OrientationConstraint.cpp
+E:\CSC8503\Common\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+E:\CSC8503\CSC8503\CSC8503Common\OrientationConstraint.cpp(46,2): warning C4552: '+': result of expression not used
+E:\CSC8503\CSC8503\CSC8503Common\OrientationConstraint.cpp(49,2): warning C4552: '+': result of expression not used
+E:\CSC8503\CSC8503\CSC8503Common\OrientationConstraint.cpp(52,2): warning C4552: '+': result of expression not used
+E:\CSC8503\CSC8503\CSC8503Common\OrientationConstraint.cpp(55,2): warning C4552: '+': result of expression not used
+  Pawn.cpp
+E:\CSC8503\CSC8503\CSC8503Common\Pawn.h(25,1): warning C4305: '=': truncation from 'double' to 'float'
+E:\CSC8503\Common\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+E:\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(51,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+E:\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(52,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+E:\CSC8503\CSC8503\CSC8503Common\Pawn.cpp(254,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  PhysicsObject.cpp
+E:\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(51,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+E:\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(52,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+E:\CSC8503\Common\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  PhysicsSystem.cpp
+E:\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(51,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+E:\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(52,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+E:\CSC8503\Common\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Player.cpp
+E:\CSC8503\Common\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+E:\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(51,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+E:\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(52,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+  Generating Code...
+  Compiling...
+  PositionConstraint.cpp
+  PushdownMachine.cpp
+  PushdownState.cpp
+  QuadTree.cpp
+E:\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(51,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+E:\CSC8503\CSC8503\CSC8503Common\CollisionDetection.h(52,1): warning C4293: '<<': shift count negative or too big, undefined behavior
+E:\CSC8503\Common\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  RenderObject.cpp
+  StateMachine.cpp
+  StateTransition.cpp
+  Transform.cpp
+  Generating Code...
+  CSC8503Common.vcxproj -> E:\CSC8503\Win32\Debug\CSC8503Common.lib

@@ -1,0 +1,2 @@
+E:\CSC8503\Win32\Debug\CSC8503Common.pdb
+E:\CSC8503\CSC8503\CSC8503Common\Debug\CSC8503Common.pdb
